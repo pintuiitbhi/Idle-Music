@@ -61,7 +61,8 @@ Now after creating those **.desktop** files, move them to folder **"~/.config/au
   
 In order to check whether  script works. First reboot the system. Then active the screensaver to see the effect of script.
 Use the following command in terminal:
-```gnome-screensaver-command -a
+```
+gnome-screensaver-command -a
 ```
 As the screensaver starts VLC will starts playing random music and stop after playing a song. Instead of songs you can play any
 music. Just you have to save the path of music file in the list of songs text file.
