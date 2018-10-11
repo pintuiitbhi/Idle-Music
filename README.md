@@ -1,8 +1,8 @@
-# Idle-Music
+# Idle Music
 A python script to play music when system is inactive for some minute (as time defined by the user). 
 The script automatically starts when the screensaver of Ubuntu starts.The music is played in VLC.
 
-### [Update.py](https://github.com/pintuiitbhi/Idle-Music/blob/master/playSong.py)
+### [update.py](https://github.com/pintuiitbhi/Idle-Music/blob/master/update.py)
 It is used to update the song list played by user in VLC. The songs name is saved in a text file and its frequency
 is updated whenever it is played. If song is new then it is added.
 
